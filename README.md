@@ -1,10 +1,7 @@
 # Web Hacker
-## THIS IS INCREDIBLY INCOMPLETE. I CANT WORK ON THIS ANY MORE.
-
-Feel free to finish it and let me know what it looks like!
 
 # What it Does
-Incomplete module which pulls all browser data from either Firefox or Chrome. Fully switched my machine to Linux so I am unable to continue this.
+Output all browser data from either Firefox or Chrome.
 
 With this code, I learned how to decrypt Firefox and Chrome cookies, passwords and much more.
 
